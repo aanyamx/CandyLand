@@ -565,9 +565,7 @@ public class Player
         con.setRequestProperty("Content-Type", "application/json");
         con.setRequestProperty(
             "Authorization",
-            "Bearer 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"); // OpenAI
-                                                                           // API
-                                                                           // key
+            "Bearer "); // Insert an OpenAI API Key here
 
         JSONObject data = new JSONObject();
         data.put("model", "text-davinci-003");
