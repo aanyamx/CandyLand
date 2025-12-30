@@ -7,6 +7,7 @@ Created by Aanya Mishra, Sriya Sthanikam, and Ahana Mangla
 **Languages/Libraries/Developer Tools Used**
 
 HTML, CSS, JavaScript, Java, JPanel, JFrame, JFreeChart, Visual Studio Code, Clip Studio Paint
+
 **Class Structure**
 
 frame.java: Main method
