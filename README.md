@@ -15,6 +15,7 @@ frame.java: Main method
 - WelcomeScreen.java: Draws welcome screen and takes starting input from the user
 
 **Key Algorithms**
+
 Side-Scrolling: This game uses a side-scrolling illusion where the character remains stationary and the board moves backwards. There are two key variables:
     - Nx2: tracks current position on the board
     - Dx: distance the board moves on each refresh/frame
