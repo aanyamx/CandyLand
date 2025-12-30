@@ -5,8 +5,10 @@ Created by Aanya Mishra, Sriya Sthanikam, and Ahana Mangla
 <img width="1440" alt="Screen Shot 2023-11-05 at 10 27 31 PM" src="https://github.com/aanyamx/CandyLand/assets/94204998/4477c779-6eb4-4f6f-bc49-0e3cf3e29a98">
 
 **Languages/Libraries/Developer Tools Used**
+
 HTML, CSS, JavaScript, Java, JPanel, JFrame, JFreeChart, Visual Studio Code, Clip Studio Paint
 **Class Structure**
+
 frame.java: Main method
  - Board.java: Draws background and creates other classes
     - Player.java: handles backend functionality. Prompts user to input a topic, uses the OpenAI API to generate trivia questions, verifies user answers, and builds a HashMap to store questions with a key that indicated whether they were answered correctly or incorrectly
